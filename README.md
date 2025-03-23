@@ -1,2 +1,2 @@
 # colorize
-We will update this repository after the paper is accepted。
+This is the official repo for colorize
